@@ -1,0 +1,17 @@
+platform :ios, '7.0'
+target 'huilichuangtou' do
+    pod 'AFNetworking', '~> 3.1.0'
+    pod 'SDWebImage', '~> 3.8.1'
+    pod 'MBProgressHUD', '~> 1.0.0'
+    pod 'MJExtension', '~> 3.0.13'
+    pod 'MJRefresh', '~> 3.1.12'
+    pod 'RegexKitLite', '~> 4.0'
+    pod 'SDCycleScrollView', '~> 1.65'
+    pod 'KLCPopup', '~> 1.0'
+    pod 'XHToast', '~> 1.3.0'
+    pod 'FDFullscreenPopGesture', '~> 1.1'
+    pod 'APAddressBook', '~> 0.3.1'
+    pod 'XHLaunchAd'
+    pod 'YBPopupMenu', '~> 1.0.0'
+    pod 'Masonry'
+end
